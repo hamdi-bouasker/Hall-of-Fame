@@ -17,4 +17,4 @@ Special thanks to `Nick Walter`, the creator of www.zappycode.com
 
 
 
-![HallOfFame.gif](https://github.com/IT-Support-L2/Hall-of-Fame/blob/master/HallOfFame.gif)
+![HallOfFame.gif](https://github.com/hamdi-bouasker/Hall-of-Fame/blob/master/HallOfFame.gif)
